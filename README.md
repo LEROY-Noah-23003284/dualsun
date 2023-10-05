@@ -1,4 +1,4 @@
-# dualsun ![COVER]()
+# dualsun ![COVER](https://github.com/LEROY-Noah-23003284/dualsun/blob/main/index.png?raw=true)
 ## L’entreprise DualSun
 
 Dualsun est une entreprise spécialisée dans la création et la mise en place de panneaux solaires, elle est actuellement l’une des entreprises les plus connues dans le secteur du photovoltaïque européen.
