@@ -1,7 +1,7 @@
 # Dualsun 
 ![COVER](https://github.com/LEROY-Noah-23003284/dualsun/blob/main/index.png?raw=true)
 ## L’entreprise DualSun
-Source : Leur site web(https://dualsun.com/?utm_source=google&utm_medium=search&utm_campaign=brand&gclid=CjwKCAjwvfmoBhAwEiwAG2tqzOVN3jX93tAjBkA2UvckYx5pgQX66XMCBVQiMo0Q7zyZcr0RWshLbhoCwswQAvD_BwE)
+Source : Leur site web(https://dualsun.com/)
 
 **Dualsun** est une entreprise spécialisée dans la création et la mise en place de panneaux solaires, <ins>elle est actuellement l’une des entreprises les plus connues dans le secteur du photovoltaïque européen.</ins>
 Elle a été créée en 2010 par L.Brottier et J.Mouterde à Marseille dans le but de proposer une solution écologique et durable à la production d’énergie. 
